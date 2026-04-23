@@ -67,6 +67,8 @@ requirements.txt
 
 For internal comparison and historical record only:
 
+- [Task card](docs/TASK_CARD.md)
+- [Human instructions](docs/HUMAN_INSTRUCTIONS.md)
 - [Reference leaderboard (2026-04-23)](docs/REFERENCE_LEADERBOARD_2026-04-23.md)
 
 This file is intentionally non-normative:
